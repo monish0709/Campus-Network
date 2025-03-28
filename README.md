@@ -1,5 +1,5 @@
 # Campus-Network
-<n>A University Campus network designed in Cisco Packet Tracer.</n>
+A University Campus network designed in Cisco Packet Tracer.
 This project aims to design a redundant and efficient campus network using Cisco Packet 
 Tracer. The network will serve a small educational institution with multiple departments, 
 each requiring access to shared resources like printers and the internet. The network will 
